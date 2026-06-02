@@ -4,10 +4,10 @@ Projeto desenvolvido com foco em cibersegurança (Blue Team / SOC) utilizando Py
 
 ## 🔍 Funcionalidades
 - 🌐 Monitoramento de conexões de rede
-- 📂 Scanner de arquivos suspeitos
-- 📊 Análise de logs do sistema
-- ⚙️ Organização automática de arquivos
-- 🚨 Detecção básica de atividades suspeitas
+- 🚨 Detecção de conexões suspeitas
+- 🧠 Classificação de risco (Seguro, Suspeito, Perigoso)
+- 💻 Interface interativa estilo terminal (Kali Linux)
+- 📊 Geração de logs e relatórios automáticos
 
 ## 🧠 Objetivo
 Simular um Security Operations Center (SOC) básico, realizando monitoramento e análise de segurança em ambiente local.
@@ -15,10 +15,10 @@ Simular um Security Operations Center (SOC) básico, realizando monitoramento e 
 ## 🛠️ Tecnologias utilizadas
 - Python
 - Biblioteca psutil
+- Biblioteca colorama
 
 ## 🚀 Como executar
 
 Clone o repositório:
-```bash
+bash
 git clone https://github.com/SkyJr-bit/Mini-soc-Python.git
-
