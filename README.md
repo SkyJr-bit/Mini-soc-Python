@@ -21,4 +21,4 @@ Simular um Security Operations Center (SOC) básico, realizando monitoramento e 
 Clone o repositório:
 ```bash
 git clone https://github.com/SkyJr-bit/Mini-soc-Python.git
-``
+
